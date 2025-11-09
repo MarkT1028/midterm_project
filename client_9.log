@@ -1,0 +1,13 @@
+[2025-11-09 22:23:50] INFO: Connected to 127.0.0.1:12345
+Enter command (SYSINFO | ECHO <msg> | QUIT): Response (238 bytes):
+System: Darwin
+Node: caiminjundeMacBook-Air.local
+Release: 24.6.0
+Version: Darwin Kernel Version 24.6.0: Mon Jul 14 11:30:51 PDT 2025; root:xnu-11417.140.69~1/RELEASE_ARM64_T8112
+Machine: arm64
+
+/proc/meminfo (first lines):
+(no meminfo)
+
+
+Enter command (SYSINFO | ECHO <msg> | QUIT): 
